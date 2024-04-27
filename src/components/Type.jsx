@@ -4,7 +4,7 @@ const Type = () => {
   return (
     <Typewriter
       options={{
-        strings: ["Dessertation", "MootCourt", "Article"],
+        strings: ["Dissertation", "MootCourt", "Article"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,

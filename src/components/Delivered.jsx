@@ -56,7 +56,7 @@ const Delivered = () => {
         </h1>
         <div className=" flex flex-col items-center  justify-evenly gap-10 sm:flex-row">
           <div className="flex h-28 w-4/5 flex-col items-center justify-center rounded-xl border-b-2 border-l-2 border-[#FA7268] bg-[#C62368] p-2 text-center text-3xl shadow-md shadow-[#FA7268] sm:w-1/3">
-            <span className="animate-pulse">Dessertation</span>
+            <span className="animate-pulse">Dissertation</span>
             <div className="flex flex-row gap-1">
               <ScrollTriggeredCountUp
                 start={0}
