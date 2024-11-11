@@ -9,7 +9,7 @@ export function FooterWithLogo() {
   const pricing = [
     {
       topic: "dissertation",
-      price: "5000",
+      price: "6000",
       under: "/100pg",
       p1: "Plagirism Free",
       p2: "Well Researched",
@@ -19,7 +19,7 @@ export function FooterWithLogo() {
     },
     {
       topic: "Article",
-      price: "0.5-1",
+      price: "0.75-1",
       under: "/word",
       p1: "Well Researched",
       p2: "Proper reference",
